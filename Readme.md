@@ -9,6 +9,7 @@ NVT最开始是用批处理文件编写的，由NFLS CY2B Software Studio编写�
 自KWYTech于2023/6/1st发布KVT Alpha 5并解散后断更了一年零一个月。现由NC2S工作室维护**
 
 ---
+
 ## FAQs
 
 ### 为什么要这么命名？
@@ -23,3 +24,6 @@ NVT最开始是用批处理文件编写的，由NFLS CY2B Software Studio编写�
 [3] GoogleUpgrade.a3x
 [4] Rundll32.exe
 [5] 
+
+---
+更多信息请前往我们的网站 [点此跳转](https://proxy.yusulif.xyz)
