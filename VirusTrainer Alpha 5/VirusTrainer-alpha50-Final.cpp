@@ -3,6 +3,9 @@
 using namespace std;
 int main(){
 	system("color 46");
+	system("title Cy2B VirusTrainer Alpha 5.0 Lite(Alpha 3.1 Rebuild,Kill Virus Only)");
+	cout << "Welcome to Cy2B VirusTrainer Alpha 5.0 Lite!" << endl;
+	cout << "[Warning] This is a lite version , it will only KILL viruses,it WON'T DELETE FILES!" << endl;
 			cout<<"----------------Killing Viruses----------------"<<endl;
 				cout<<"---------------Killing Processes---------------"<<endl;
 				system("TASKKILL -F -IM Rundll32.exe -T");
@@ -43,8 +46,6 @@ int main(){
 				system("ren J:\*.vbe *.vbe-vf");
 				system("ren K:\*.vbe *.vbe-vf");
 				system("ren C:\Google\Autolt3.exe Al3ScriprRunner.com");
-				cout<<"----------------------FINSIH-------------------"<<endl;
-				cout<<"The Files are Renamed,You can decide To Delete Them Or Not;-)"<<endl<<"Type 114514 in the main menu to delete them!"<<endl;
 				cout<<"----------------------FINSIH-------------------"<<endl;
 				
 			cout<<"-------------Showing Hidden Files--------------"<<endl;
