@@ -19,8 +19,7 @@ Nanflas VirusTrainer Alpha的生命周期已结束，目前<font face="Microsoft
 我们**不推荐**您使用Nanflas Virus Trainer Alpha 6及以后的版本作为过渡版本，因为这些版本的稳定性**普遍较差**，且**完成度较低**。
 ---
 # OpenNVT Project
-<!--![NvtLogo](NVTLogoNew.png)-->
-
+![NvtLogo](NVTLogoNew.png)
 
 ---
 
