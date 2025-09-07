@@ -8,13 +8,13 @@ Nanflas VirusTrainer Alpha的生命周期已于2025年8月21日结束，目前<f
 
 ### 我应该迁移到什么项目？
 
-我们推荐您迁移到[NVT Next]("https://github.com/Nanflas202202/NvtNEXT")或[OpenNVTβ]("https://github.com/TsukiKenga/NVTBeta")，这两个项目为NC2S/Yusulif Studio的官方继承项目。
+我们推荐您迁移到[NVT Next](https://github.com/Nanflas202202/NvtNEXT)或[OpenNVTβ](https://github.com/TsukiKenga/NVTBeta)，这两个项目为NC2S/Yusulif Studio的官方继承项目。
 
-由于项目正在开发中，如果您暂时需要系统安全解决方案，您可以使用[XYZ Virus Killer]("https://github.com/Errorsia/xyz-virus-killer") 或[Errorsia Virus Killer]("https://github.com/Errorsia/errorsia-virus-killer")这两个项目作为临时的过渡方案。
+由于项目正在开发中，如果您暂时需要系统安全解决方案，您可以使用[XYZ Virus Killer](https://github.com/Errorsia/xyz-virus-killer) 或[Errorsia Virus Killer](https://github.com/Errorsia/errorsia-virus-killer)这两个项目作为临时的过渡方案。
 
 ### 我不希望迁移，我该怎么做？
 
-如果您执意要使用该项目作为解决方案，我们推荐您使用[VT Alpha 5](https://github.com/Nanflas202202/OpenNVT/releases/download/0.0.0.20250629.174630/VirusTrainer-alpha50-Final.exe")（绿色版）或[KWY VirusTrainer V4 Lite](https://github.com/Nanflas202202/OpenNVT/releases/download/0.0.0.20250629.174630/KwyVirusTrainer-test-v04rc6CNtl-Light-Build20230124.exe)（安装版）作为您暂时使用的版本，因为这是相对较新新且最稳定的版本。
+如果您执意要使用该项目作为解决方案，我们推荐您使用[VT Alpha 5](https://github.com/Nanflas202202/OpenNVT/releases/download/0.0.0.20250629.174630/VirusTrainer-alpha50-Final.exe)（绿色版）或[KWY VirusTrainer V4 Lite](https://github.com/Nanflas202202/OpenNVT/releases/download/0.0.0.20250629.174630/KwyVirusTrainer-test-v04rc6CNtl-Light-Build20230124.exe)（安装版）作为您暂时使用的版本，因为这是相对较新新且最稳定的版本。
 
 我们**不推荐**您使用Nanflas Virus Trainer Alpha 6及以后的版本作为过渡版本，因为这些版本的稳定性**普遍较差**，且**完成度较低**。
 ---
